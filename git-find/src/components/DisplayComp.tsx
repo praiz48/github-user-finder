@@ -1,5 +1,3 @@
-import React from "react";
-
 interface UserData {
   name: string;
   login: string;
